@@ -1,0 +1,27 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "BC OnPrem Agents",
+  "publisher": "OnPrem Solutions",
+  "brief": "AI Agents for Business Central On-Premises powered by OpenRouter.",
+  "description": "Enables custom AI agents on Business Central On-Premises environments. Supports page navigation, task management, human-in-the-loop review, and OpenRouter LLM integration for custom AI logic.",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "application": "28.0.0.0",
+  "platform": "28.0.0.0",
+  "target": "OnPrem",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50199
+    }
+  ],
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ]
+}
